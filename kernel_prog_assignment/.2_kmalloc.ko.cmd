@@ -1,0 +1,1 @@
+cmd_/home/desd/kernel_prog/assignment4/2_kmalloc.ko := ld -r -m elf_i386 -T /usr/src/linux-3.7.10-1.1/scripts/module-common.lds --build-id  -o /home/desd/kernel_prog/assignment4/2_kmalloc.ko /home/desd/kernel_prog/assignment4/2_kmalloc.o /home/desd/kernel_prog/assignment4/2_kmalloc.mod.o

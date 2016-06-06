@@ -1,0 +1,3 @@
+kernel//home/desd/kernel_prog/assignment4/1_highmem.ko
+kernel//home/desd/kernel_prog/assignment4/1_lowmem.ko
+kernel//home/desd/kernel_prog/assignment4/2_kmalloc.ko
